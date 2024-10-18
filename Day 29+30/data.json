@@ -1,0 +1,15 @@
+{
+    "pythonanywhere": {
+        "email": "atharvmitt@gmail.com",
+        "password": "Atharv@pyany01"
+    },
+    "Gmail": {
+        "email": "atharvmitt@gmail.com",
+        "password": "Atharv@gmail01"
+    },
+    "twilio.com": {
+        "email": "atharvmitt@gmail.com",
+        "password": "T8Tj+x4U%+b8X#y!x#wF9(O7aNsM$",
+        "recovery": "3AGNS1SRH4B3MEJDHYAJWRNK"
+    }
+}
